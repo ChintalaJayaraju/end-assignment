@@ -8,11 +8,17 @@
   "test": "react-scripts test",
   "eject": "react-scripts eject"
 }
+
 ,
-  "dependencies": {
+ "dependencies": {
   "react": "^18.3.1",
   "react-dom": "^18.3.1",
   "react-scripts": "5.0.1"
+}
+,
+"engines": {
+  "node": "18.x",
+  "npm": "10.x"
 },
 
   "browserslist": {
